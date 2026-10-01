@@ -1,6 +1,7 @@
 # app-store-scraper [![Build Status](https://secure.travis-ci.org/facundoolano/app-store-scraper.png)](http://travis-ci.org/facundoolano/app-store-scraper)
 
 > Fork of [facundoolano/app-store-scraper](https://github.com/facundoolano/app-store-scraper), published as `@jeromyfu/app-store-scraper`. Includes a fix that sends a browser User-Agent by default (Apple returns an empty review feed otherwise).
+
 Node.js module to scrape application data from the iTunes/Mac App Store.
 The goal is to provide an interface as close as possible to the
 [google-play-scraper](https://github.com/facundoolano/google-play-scraper) module.
